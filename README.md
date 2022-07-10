@@ -15,9 +15,7 @@ curl -X 'POST' \
   -H 'Content-Type: multipart/form-data' \
   -F 'file=@GK2_page-0280.jpg;type=image/jpeg' \
   -F 'inference=no' \
-  -F 'lang=san_iitb' \
-  -F 'model=' \
-  -F 'confidence_threshold='
+  -F 'lang=san_iitb'
 ```
 
 ## For Layout Detection
