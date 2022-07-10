@@ -1,7 +1,7 @@
 # FastAPI for [Indic Parser](https://github.com/document-analysis-tools/indic-parser) & [docTR](https://github.com/mindee/doctr)
 
 1. Clone the Respository
-2. ```cd indic-parser-flaskapi```
+2. ```cd fastapi-indicparser-doctr```
 3. Install all the packages ```pip install -r packages.txt```
 4. Run app.py ```uvicorn app:app --reload```
 5. Send <b>POST</b> request
